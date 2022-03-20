@@ -1,0 +1,13 @@
+* Terminology
+  
+** Entity
+   Information that teransfered as payload of request/response
+** user agent
+   The client which initiates a request
+** explicit expiration time
+    The time at which the origin server intends that an entity should
+    no longer be returned by a cache without further validation.
+** Age
+      The age of a response is the time since it was sent by, or
+      successfully validated with, the origin server.
+   
